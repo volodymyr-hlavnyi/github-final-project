@@ -6,7 +6,8 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Volodymyr Hlavnyi
+   # Volodymyr Hlavnyi 
+   # 2023
 
    # Input:
    # p, principal amount
